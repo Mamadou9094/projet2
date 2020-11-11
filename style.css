@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(rgba(59, 60, 140 , 0.8),rgba(59, 60, 140 , 0.8)),
+    url("bg.jpeg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+.doc{
+    width: 500px;
+    height: 30px;
+}
+textarea{
+    width: 500px;
+}
+
+
+    div{
+        text-align: left;
+        margin: 0px auto;
+        width: 500px;
+        background-color: rgb(29, 29, 90);
+        color: white;
+        padding: 10px;
+        opacity: 1;
+        
+    }
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+button{
+    width: 504px;
+    height: 25px;
+    margin-top: 5px;
+    background-color: green;
+    color: white;
+    border: none;
+
+}
+    
